@@ -10,6 +10,6 @@
         }
     },
     "extract_dir": "NifSkope_2_0_2018-02-22-x64",
-    "bin": "NifScope.exe",
+    "bin": "NifSkope.exe",
     "checkver": "github"
 }
