@@ -9,7 +9,7 @@
             "hash": "3f1e1f3cdedb4d3547293d699affb67c1220b74b63d09012ac1db5d6e12c7070",
         }
     },
-    "extract_dir": "NifSkope_2_0_2018-02-22-x64"    
+    "extract_dir": "NifSkope_2_0_2018-02-22-x64",
     "bin": "NifScope.exe",
     "checkver": "github"
 }
