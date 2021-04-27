@@ -9,6 +9,12 @@
             "hash": "87652e914c21d0daef8f444688f0ad1703d00d3e4f075fe8b15c3c57ad728563"
         }
     },
+    "shortcuts": [
+        [
+            "NifSkope.exe",
+            "NifSkope"
+        ]
+    ],
     "extract_dir": "NifSkope_2_0_2018-02-22-x64",
     "bin": "NifSkope.exe",
     "checkver": "github"
